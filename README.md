@@ -1,3 +1,5 @@
+<h1 align="center"> TRẦN KHÁNH DUY <\h1>
+<h3 align="left"> Study in University of Information Technology <\h3>
 <h2 align="center">🛠 My Skills 🛠</h2>
 <br>
 &nbsp;
