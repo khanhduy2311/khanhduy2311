@@ -1,5 +1,5 @@
 <h1 align="center"> TRẦN KHÁNH DUY </h1>
-<h3 align="left"> Study in University of Information Technology </h3>
+<h3 align="left"> I am a student study in University of Information Technology. I learn in Computer Science field with one year experience. This is my profile. </h3>
 <h2 align="center">🛠 My Skills 🛠</h2>
 <br>
 &nbsp;
