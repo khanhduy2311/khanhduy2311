@@ -1,7 +1,7 @@
 
 <h1 align="center"> TRẦN KHÁNH DUY </h1>
-<h3 align="left"> School: University of Information Technology, VNU-HCM.</h3>
-<h3 align="left"> Major: Computer Science. </h3>
+<h3 align="center"> School: University of Information Technology, VNU-HCM.</h3>
+<h3 align="center"> Major: Computer Science. </h3>
 <h2 align="center">🛠 My Skills 🛠</h2>
 <br>
 &nbsp;
