@@ -1,6 +1,6 @@
 # Hi 👋, I'm Duy Tran Khanh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanhduy2311&label=Profile views&color=0e75b6&style=flat" alt="khanhduy2311" /> </p>
+![](https://komarev.com/ghpvc/?username=khanhduy2311&style=for-the-badge)
 
 - 🔭 I'm currently working on **Computer Vision & NLP**
 
